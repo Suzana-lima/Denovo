@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    opacity: 0.8;
+}
+section {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header h1{
+    display: flex;
+    background-color: crimson;
+    justify-content: center;
+    align-content: center;
+    opacity: 0.9;
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin: 2;
+   
+}
