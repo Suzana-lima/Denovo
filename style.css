@@ -8,6 +8,11 @@ section {
     align-items: center;
     justify-content: center;
 }
+section img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
 header h1{
     display: flex;
     background-color: crimson;
